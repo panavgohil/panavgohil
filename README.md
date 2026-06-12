@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Electronics+Engineering+Student+%40+DTU;Building+AI+%26+Computer+Vision+Projects;Exploring+Embedded+Systems+%26+IoT;Winner+-+DTU+ALTAIR+Ideathon;Represented+DTU+at+IIT+Bombay+Debate;Designing+Systems+That+Sense%2C+Think+and+Act" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Electronics+Engineering+Student+%40+DTU;Building+AI+%26+Machine+Learning+Projects;Exploring+Embedded+Systems+%26+IoT;Designing+Systems+That+Sense%2C+Think+and+Act" />
 </p>
 
 <p align="center">

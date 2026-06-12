@@ -1,95 +1,106 @@
-# 👋 Hi, I'm Panav Gohil
+# Hi, I'm Panav Gohil 👋
 
-🎓 B.Tech Undergraduate at Delhi Technological University (DTU)  
-⚡ Electronics Engineering (VLSI Design & Technology)  
-🤖 Exploring Machine Learning, Computer Vision & Embedded Systems  
-🚀 Building projects and learning by doing
+### Electronics Engineering Student | AI & Computer Vision Enthusiast | Embedded Systems Explorer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&center=true\&vCenter=true\&width=800\&lines=Electronics+Engineering+Student;Exploring+AI+%26+Machine+Learning;Computer+Vision+Enthusiast;Building+Embedded+Systems;Learning+by+Building+Projects)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me
+## 🎓 About Me
 
-I'm a first-year engineering student passionate about combining software and hardware to solve real-world problems.
+I'm a B.Tech undergraduate at **Delhi Technological University (DTU)** pursuing **Electronics Engineering (VLSI Design & Technology)**.
 
-Currently exploring:
+My interests lie at the intersection of **Artificial Intelligence, Computer Vision, Embedded Systems, and Hardware Design**. I enjoy transforming ideas into working prototypes and continuously learning through hands-on projects, hackathons, and problem-solving.
 
-- Machine Learning & Deep Learning
-- Computer Vision using OpenCV
-- Embedded Systems & IoT
-- AI-powered Applications
-- Data Structures & Algorithms
+### Current Areas of Interest
 
-I enjoy turning ideas into working prototypes and participating in hackathons to learn, build, and collaborate.
+* 🤖 Artificial Intelligence & Machine Learning
+* 👁️ Computer Vision
+* 🔌 Embedded Systems & IoT
+* 💻 Data Structures & Algorithms
+* 🧠 VLSI Design & Hardware Systems
+* 🚀 Startups & Entrepreneurship
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 
 ### AI & Computer Vision
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
 ### Embedded Systems
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
 
-### Tools
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🚗 Driver Drowsiness Detection System
-CNN-based real-time driver monitoring system that detects eye closure and alerts the driver.
+
+A deep learning-based driver monitoring system that detects eye closure patterns in real time and alerts the driver to prevent accidents.
 
 ### ✋ Gesture Controlled System
-Computer vision-based hand gesture recognition system for intuitive device control.
+
+A computer vision application that recognizes hand gestures and converts them into system commands for intuitive human-computer interaction.
 
 ### 🤖 Autonomous Reconnaissance & Hazard Detection Robot
-ESP32-CAM and sensor-based robot capable of detecting obstacles, gas leaks, motion, and fire hazards.
 
-### ⚠️ Forward Collision Warning System (FCWS)
-Computer vision project that estimates vehicle proximity and provides collision alerts.
+An ESP32-CAM and sensor-based robotic platform capable of detecting obstacles, motion, gas leaks, and fire hazards while providing visual feedback.
 
 ---
 
-## 📈 Current Goals
+## 📈 Currently Learning
 
-- Strengthen DSA and problem-solving skills
-- Learn advanced Computer Vision
-- Explore Embedded AI applications
-- Build impactful hackathon projects
-- Contribute to Open Source
+* Advanced Computer Vision
+* Deep Learning with TensorFlow
+* Embedded AI Applications
+* Data Structures & Algorithms
+* VLSI Design Fundamentals
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Panav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panavgohil\&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panavgohil\&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=panavgohil)
+
+---
+
+## 💻 Problem Solving
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/panavgohil)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Panav%20Gohil-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/panavgohil/)
 
-📧 Email: YOUR_EMAIL
+📧 Personal: [panavgohil@gmail.com](mailto:panavgohil@gmail.com)
+
+📧 Academic: [panavgohil_evdt_25a14031@dtu.ac.in](mailto:panavgohil_evdt_25a14031@dtu.ac.in)
 
 ---
 
-> "Learning by building."
+> “Learning by building, improving through iteration, and solving real-world problems through technology.”

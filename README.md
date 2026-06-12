@@ -4,11 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&center=true\&vCenter=true\&width=800\&lines=Electronics+Engineering+Student;Exploring+AI+%26+Machine+Learning;Computer+Vision+Enthusiast;Building+Embedded+Systems;Learning+by+Building+Projects)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-00C853?style=for-the-badge\&logo=vercel\&logoColor=white)](https://panavgohil.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Panav%20Gohil-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/panavgohil/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/panavgohil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-00C853?style=for-the-badge\&logo=vercel\&logoColor=white)](https://panavgohil.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Panav%20Gohil-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/panavgohil/) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/panavgohil)
 
 ---
 
